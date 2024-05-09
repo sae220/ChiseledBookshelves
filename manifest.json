@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "",
+        "name": "Chiseled Bookshelves",
+        "uuid": "f1839f01-207c-0244-704d-da73b44d848f",
+        "version": [ 0, 0, 1 ],
+        "min_engine_version": [ 1, 20, 12 ]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "data",
+            "uuid": "25f9a3b1-fe07-def2-a3c5-f0bf3f7cbc62",
+            "version": [0, 0, 1]
+        }
+    ]
+}
